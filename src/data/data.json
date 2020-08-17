@@ -1,0 +1,28 @@
+[
+    {
+        "appointmentName" : "Hair Appointment",
+        "drName" : "with Dr. Shobita Anand",
+        "date" : "Today, 3:30 PM",
+        "icon" : "faUserCheck"
+    },
+    {
+        "appointmentName" : "Eat Tablet - Bromide",
+        "drName" : "Follow up on your regime",
+        "date" : "Today, After Lunch",
+        "icon" : "faUserCheck"
+    },
+    {
+        "appointmentName" : "Wash Hair",
+        "drName" : "Use your shampoo",
+        "date" : "Today, Morning Bath",
+        "icon" : "faUserCheck"
+    },
+    {
+        "appointmentName" : "Moisturize",
+        "drName" : "Use your Moisturizer",
+        "date" : "Before bedtime, 28th June",
+        "icon" : "faUserCheck"
+    }
+
+
+]
